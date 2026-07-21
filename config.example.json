@@ -1,0 +1,8 @@
+{
+  "apiKey": "your_api_key_here",
+  "accountIds": {
+    "douyin": "douyin__xxxxxxxxxx",
+    "xhs": "xhs_xxxxxxxxxx",
+    "bilibili": "bilibili__xxxxxxxxxx"
+  }
+}
